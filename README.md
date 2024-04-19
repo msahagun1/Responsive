@@ -1,2 +1,2 @@
 # Responsive
-https://github.com/msahagun1/Responsive/blob/main/index.html
+https://msahagun1.github.io/Responsive/
